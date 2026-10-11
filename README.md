@@ -1,21 +1,13 @@
-<div align="center">
+<!-- Self-contained GitHub README: no external image or assets required -->
 
-<!-- CUSTOM TERMINAL: the visual is maintained in assets/terminal.svg -->
-<img src="./assets/terminal.svg" alt="Terminal-style introduction for Shubham Baxla: integrated M.Tech CSE / Data Science student at SRM IST, exploring machine learning, deep learning, and NLP." width="100%" />
+<img width="1200" height="710" alt="shubhambaxla-terminal-banner (3).png" src="https://github.com/user-attachments/assets/c7ea9f7f-a5b0-40b1-b26e-3c1633ab8c9f" />
 
-<br />
-
-**Computer Science × Data Science × Curiosity**
-
-<sub>Learning the theory. Building the systems. Improving through iteration.</sub>
-
-<br /><br />
+<div align="center">shubham@github:~$ open projects && keep-building
+<div align="center">**Computer Science × Data Science × Curiosity**
 
 <a href="https://github.com/shubhambaxla?tab=repositories">Explore repositories</a>
 &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/shubham-baxla-600914275/">Connect on LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/shubhambaxla">GitHub profile</a>
 
 </div>
 
