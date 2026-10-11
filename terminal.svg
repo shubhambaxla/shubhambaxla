@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="710" viewBox="0 0 1200 710" role="img" aria-labelledby="title desc">
+<title id="title">Shubham Baxla — developer terminal</title>
+<desc id="desc">A dark developer-terminal panel with an ASCII SB monogram, developer identity, interests, featured repositories, and contact links.</desc>
+<defs>
+ <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101923"/><stop offset="1" stop-color="#080D15"/></linearGradient>
+ <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#18232D"/><stop offset="1" stop-color="#131D26"/></linearGradient>
+ <linearGradient id="ascii" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E5F7FF"/><stop offset="0.52" stop-color="#8FC9E9"/><stop offset="1" stop-color="#5CD6BD"/></linearGradient>
+ <radialGradient id="glow"><stop offset="0" stop-color="#46B9AF" stop-opacity=".13"/><stop offset="1" stop-color="#46B9AF" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263544" stroke-width=".6" opacity=".4"/></pattern>
+ <clipPath id="clip"><rect x="15" y="15" width="1170" height="680" rx="20"/></clipPath>
+</defs>
+<rect width="1200" height="710" rx="24" fill="#090E14"/>
+<rect x="15" y="15" width="1170" height="680" rx="20" fill="url(#back)" stroke="#334251" stroke-width="1.4"/>
+<g clip-path="url(#clip)">
+ <rect x="16" y="16" width="1168" height="679" fill="url(#grid)" opacity=".34"/>
+ <ellipse cx="280" cy="320" rx="350" ry="380" fill="url(#glow)"/>
+ <rect x="16" y="16" width="1168" height="58" fill="url(#shade)"/>
+ <path d="M16 74H1184" stroke="#33404E" stroke-width="1"/>
+ <rect x="16" y="74" width="1168" height="3" fill="#101820"/>
+</g>
+<circle cx="49" cy="45" r="7" fill="#F07F79"/>
+<circle cx="75" cy="45" r="7" fill="#E5BC75"/>
+<circle cx="101" cy="45" r="7" fill="#68CEAB"/>
+
+<text x="131" y="51" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="400" letter-spacing="0" text-anchor="start" fill="#BFD0DE" opacity="1" xml:space="preserve">shubham@github: ~ /profile</text>
+<circle cx="1022" cy="44" r="5" fill="#68CEAB"/><circle cx="1022" cy="44" r="9" stroke="#68CEAB" opacity=".25" fill="none"/>
+<text x="1040" y="50" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="0" text-anchor="start" fill="#89DABF" opacity="1" xml:space="preserve">BUILD MODE</text>
+<path d="M478 110V665" stroke="#364A59" opacity=".8"/>
+<text x="64" y="130" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="700" letter-spacing="1" text-anchor="start" fill="#EFB77F" opacity="1" xml:space="preserve">// 001  —  DEVELOPER ID</text>
+<path d="M64 146H431" stroke="#314758" stroke-dasharray="4 7"/>
+<text x="65" y="228" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="25" font-weight="700" letter-spacing="0" text-anchor="start" fill="url(#ascii)" opacity="1" xml:space="preserve"> ███████   ████████  </text>
+<text x="65" y="262" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="25" font-weight="700" letter-spacing="0" text-anchor="start" fill="url(#ascii)" opacity="1" xml:space="preserve">██         ██     ██ </text>
+<text x="65" y="296" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="25" font-weight="700" letter-spacing="0" text-anchor="start" fill="url(#ascii)" opacity="1" xml:space="preserve">██         ██     ██ </text>
+<text x="65" y="330" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="25" font-weight="700" letter-spacing="0" text-anchor="start" fill="url(#ascii)" opacity="1" xml:space="preserve"> ███████   ███████  </text>
+<text x="65" y="364" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="25" font-weight="700" letter-spacing="0" text-anchor="start" fill="url(#ascii)" opacity="1" xml:space="preserve">       ██  ██     ██ </text>
+<text x="65" y="398" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="25" font-weight="700" letter-spacing="0" text-anchor="start" fill="url(#ascii)" opacity="1" xml:space="preserve">       ██  ██     ██ </text>
+<text x="65" y="432" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="25" font-weight="700" letter-spacing="0" text-anchor="start" fill="url(#ascii)" opacity="1" xml:space="preserve">████████   ████████  </text>
+<rect x="65" y="472" width="367" height="1.5" fill="#3B5665"/>
+<text x="66" y="513" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="28" font-weight="700" letter-spacing="0.9" text-anchor="start" fill="#E8F3FF" opacity="1" xml:space="preserve">SHUBHAM BAXLA</text>
+<text x="66" y="543" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="500" letter-spacing="1.4" text-anchor="start" fill="#7EBED8" opacity="1" xml:space="preserve">CSE  /  DATA SCIENCE</text>
+<text x="67" y="581" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="400" letter-spacing="0" text-anchor="start" fill="#91D4B8" opacity="1" xml:space="preserve">$ ./learn --build --repeat</text>
+<rect x="64" y="603" width="368" height="56" rx="9" fill="#17242E" stroke="#304452"/>
+<text x="80" y="625" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.4" text-anchor="start" fill="#E9B27E" opacity="1" xml:space="preserve">CURRENTLY EXPLORING</text>
+<text x="80" y="646" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="400" letter-spacing="0" text-anchor="start" fill="#BBD5EA" opacity="1" xml:space="preserve">ML  /  DEEP LEARNING  /  NLP</text>
+<text x="516" y="128" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="23" font-weight="700" letter-spacing="0" text-anchor="start" fill="#DCEAF8" opacity="1" xml:space="preserve">shubham@github</text>
+<path d="M733 122H1131" stroke="#587282" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="1139" y="128" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="22" font-weight="400" letter-spacing="0" text-anchor="start" fill="#DDAE78" opacity="1" xml:space="preserve">~</text>
+<text x="516" y="168" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="1.25" text-anchor="start" fill="#DFA671" opacity="1" xml:space="preserve">01  /  IDENTITY</text>
+<path d="M745 163H1139" stroke="#355063" opacity=".8" stroke-dasharray="2 5"/>
+<text x="517" y="200" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#E5AA78" opacity="1" xml:space="preserve">Program</text>
+<text x="722" y="200" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#9FC7E9" opacity="1" xml:space="preserve">Integrated M.Tech | CSE, Data Science</text>
+<text x="517" y="231" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#E5AA78" opacity="1" xml:space="preserve">Campus</text>
+<text x="722" y="231" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#9FC7E9" opacity="1" xml:space="preserve">SRM IST | Kattankulathur, Chennai</text>
+<text x="517" y="262" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#E5AA78" opacity="1" xml:space="preserve">Method</text>
+<text x="722" y="262" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#A3E1CB" opacity="1" xml:space="preserve">Learn  -&gt;  Build  -&gt;  Iterate</text>
+<text x="516" y="314" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="1.25" text-anchor="start" fill="#DFA671" opacity="1" xml:space="preserve">02  /  RESEARCH INTERESTS</text>
+<path d="M745 309H1139" stroke="#355063" opacity=".8" stroke-dasharray="2 5"/>
+<text x="517" y="346" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#E5AA78" opacity="1" xml:space="preserve">Primary</text>
+<text x="722" y="346" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#9FC7E9" opacity="1" xml:space="preserve">Machine Learning | Deep Learning</text>
+<text x="517" y="377" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#E5AA78" opacity="1" xml:space="preserve">Exploring</text>
+<text x="722" y="377" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#9FC7E9" opacity="1" xml:space="preserve">NLP | Neural Networks | IoT</text>
+<text x="517" y="408" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#E5AA78" opacity="1" xml:space="preserve">Languages</text>
+<text x="722" y="408" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#9FC7E9" opacity="1" xml:space="preserve">Python | Java | SQL | JS | AHK</text>
+<text x="516" y="457" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="1.25" text-anchor="start" fill="#DFA671" opacity="1" xml:space="preserve">03  /  FEATURED PROJECTS</text>
+<path d="M745 452H1139" stroke="#355063" opacity=".8" stroke-dasharray="2 5"/>
+<text x="517" y="489" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#E5AA78" opacity="1" xml:space="preserve">01.</text>
+<text x="722" y="489" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#9FC7E9" opacity="1" xml:space="preserve">Study Repository &amp; Quiz System</text>
+<text x="517" y="520" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#E5AA78" opacity="1" xml:space="preserve">02.</text>
+<text x="722" y="520" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#9FC7E9" opacity="1" xml:space="preserve">Java Train Management System</text>
+<text x="517" y="551" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#E5AA78" opacity="1" xml:space="preserve">03.</text>
+<text x="722" y="551" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#9FC7E9" opacity="1" xml:space="preserve">Smart Screenshot Tool (AHK)</text>
+<text x="516" y="595" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="1.25" text-anchor="start" fill="#DFA671" opacity="1" xml:space="preserve">04  /  FIND ME ONLINE</text>
+<path d="M745 590H1139" stroke="#355063" opacity=".8" stroke-dasharray="2 5"/>
+<text x="517" y="627" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#E5AA78" opacity="1" xml:space="preserve">GitHub</text>
+<text x="722" y="627" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#A3E1CB" opacity="1" xml:space="preserve">github.com/shubhambaxla</text>
+<text x="517" y="657" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#E5AA78" opacity="1" xml:space="preserve">LinkedIn</text>
+<text x="722" y="657" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#A3E1CB" opacity="1" xml:space="preserve">in/shubham-baxla-600914275</text>
+<text x="517" y="680" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="12.5" font-weight="400" letter-spacing="0" text-anchor="start" fill="#7891A2" opacity="1" xml:space="preserve">GITHUB SNAPSHOT  /  14 REPOS  ·  3 FOLLOWERS  /  11 OCT 2026</text>
+<rect x="15" y="686" width="1170" height="9" fill="#0A1118"/>
+</svg>
