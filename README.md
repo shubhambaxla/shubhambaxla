@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CUSTOM TERMINAL: the visual is maintained in assets/terminal.svg -->
-<img src="" alt="Terminal-style introduction for Shubham Baxla: integrated M.Tech CSE / Data Science student at SRM IST, exploring machine learning, deep learning, and NLP." width="100%" />
+<img src="./assets/terminal.svg" alt="Terminal-style introduction for Shubham Baxla: integrated M.Tech CSE / Data Science student at SRM IST, exploring machine learning, deep learning, and NLP." width="100%" />
 
 <br />
 
@@ -67,4 +67,3 @@ I'm interested in learning from developers, sharing projects, and collaborating 
 <sub><code>shubham@github:~$</code> keep learning; keep shipping; keep improving.</sub>
 
 </div>
-
